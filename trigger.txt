@@ -1,1 +1,1 @@
-python:3.11 registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.11
+python:3.10 registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.10
