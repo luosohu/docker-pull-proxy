@@ -1,1 +1,1 @@
-infiniflow/ragflow:dev registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-ragflow:dev
+infiniflow/ragflow-base:v2.0 registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-base:v2.0
