@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3 registry.cn-hangzhou.aliyuncs.com/ai-team/chroma:elasticsearch:8.11.3
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3 registry.cn-hangzhou.aliyuncs.com/ai-team/elasticsearch:8.11.3
