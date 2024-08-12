@@ -1,1 +1,1 @@
-infiniflow/ragflow-base:v2.0 registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-base:v2.0
+python:3.11 registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.11
