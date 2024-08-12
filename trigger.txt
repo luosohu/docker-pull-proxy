@@ -1,1 +1,1 @@
-kibana:8.11.3 registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-kibana:8.11.3
+appropriate/curl registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-appropriate_curl:8.11.3
