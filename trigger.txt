@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3 registry.cn-hangzhou.aliyuncs.com/ai-team/elasticsearch:8.11.3
+mysql:5.7.18 registry.cn-hangzhou.aliyuncs.com/ai-team/mysql:5.7.18
