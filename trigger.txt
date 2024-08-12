@@ -1,1 +1,1 @@
-postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/ai-team/postgres:15-alpine
+redis:6-alpine registry.cn-hangzhou.aliyuncs.com/ai-team/redis:6-alpine
