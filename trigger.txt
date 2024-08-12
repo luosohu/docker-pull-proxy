@@ -1,1 +1,1 @@
-redis:7.2.4 registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-redis:7.2.4
+kibana:8.11.3 registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-kibana:8.11.3
