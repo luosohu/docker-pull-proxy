@@ -1,1 +1,1 @@
-appropriate/curl registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-appropriate_curl:8.11.3
+infiniflow/ragflow:dev registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-ragflow:dev
