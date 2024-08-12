@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/ai-team/nginx:latest
+semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/ai-team/weaviate:1.19.0
