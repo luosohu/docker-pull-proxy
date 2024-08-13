@@ -1,1 +1,1 @@
-mcr.microsoft.com/devcontainers/python:3.10 registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.10
+ghcr.io/devcontainers/features/docker-in-docker:2 registry.cn-hangzhou.aliyuncs.com/ai-team/docker-in-docker:2
