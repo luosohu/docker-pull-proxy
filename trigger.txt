@@ -1,1 +1,1 @@
-ghcr.io/devcontainers/features/docker-in-docker:2:latest registry.cn-hangzhou.aliyuncs.com/ai-team/docker-in-docker:2:latest
+python:3.10-slim registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.10-slim
