@@ -1,1 +1,1 @@
-openjdk:8u111 registry.cn-hangzhou.aliyuncs.com/ai-team/openjdk:8u111
+openjdk:11.0.16-jre registry.cn-hangzhou.aliyuncs.com/ai-team/openjdk:11.0.16-jre
