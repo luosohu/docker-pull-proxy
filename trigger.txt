@@ -1,1 +1,1 @@
-openjdk:11.0.16-jre registry.cn-hangzhou.aliyuncs.com/ai-team/openjdk:11.0.16-jre
+ubuntu/jre:8-22.04_edge registry.cn-hangzhou.aliyuncs.com/ai-team/ubuntu-jre:8-22.04_edge
