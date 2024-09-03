@@ -1,1 +1,1 @@
-ubuntu/jre:8-22.04_edge registry.cn-hangzhou.aliyuncs.com/ai-team/ubuntu-jre:8-22.04_edge
+ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/ai-team/ubuntu:22.04
