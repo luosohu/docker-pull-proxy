@@ -1,1 +1,1 @@
-apache/rocketmq:5.3.0 registry.cn-hangzhou.aliyuncs.com/ai-team/rocketmq:5.3.0
+openjdk:8u111 registry.cn-hangzhou.aliyuncs.com/ai-team/openjdk:8u111
