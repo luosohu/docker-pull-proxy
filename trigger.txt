@@ -1,1 +1,1 @@
-ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/ai-team/ubuntu:22.04
+infiniflow/ragflow-base:v2.0 registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-base:v2.0
