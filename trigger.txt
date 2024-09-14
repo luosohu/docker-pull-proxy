@@ -1,1 +1,1 @@
-langgenius/dify-web:0.8.2 registry.cn-hangzhou.aliyuncs.com/ai-team/dify-web:0.8.2
+langgenius/dify-sandbox:0.2.9 registry.cn-hangzhou.aliyuncs.com/ai-team/dify-sandbox:0.2.9
