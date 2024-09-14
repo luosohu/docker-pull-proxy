@@ -1,1 +1,1 @@
-infiniflow/ragflow-base:v2.0 registry.cn-hangzhou.aliyuncs.com/ai-team/ragflow-base:v2.0
+langgenius/dify-api:0.8.2 registry.cn-hangzhou.aliyuncs.com/ai-team/dify-api:0.8.2
