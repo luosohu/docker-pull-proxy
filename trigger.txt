@@ -1,1 +1,1 @@
-langgenius/dify-web:0.11.0 registry.cn-hangzhou.aliyuncs.com/ai-team/dify-web:0.11.0
+downloads.unstructured.io/unstructured-io/unstructured-api:latest registry.cn-hangzhou.aliyuncs.com/ai-team/unstructured-api:latest
