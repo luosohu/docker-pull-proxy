@@ -1,1 +1,1 @@
-langfuse/langfuse:2 registry.cn-hangzhou.aliyuncs.com/ai-team/langfuse:2
+quay.io/unstructured-io/unstructured:0.16.11 registry.cn-hangzhou.aliyuncs.com/ai-team/unstructured:0.16.11
