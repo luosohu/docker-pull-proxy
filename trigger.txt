@@ -1,1 +1,1 @@
-quay.io/unstructured-io/unstructured:0.16.11 registry.cn-hangzhou.aliyuncs.com/ai-team/unstructured:0.16.11
+bitnami/postgresql:15.4.0-debian-11-r45 registry.cn-hangzhou.aliyuncs.com/ai-team/postgresql:15.4.0-debian-11-r45
