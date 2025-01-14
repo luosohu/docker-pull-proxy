@@ -1,1 +1,1 @@
-bitnami/postgresql:15.4.0-debian-11-r45 registry.cn-hangzhou.aliyuncs.com/ai-team/postgresql:15.4.0-debian-11-r45
+python:3.10-slim-bookworm registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.10-slim-bookworm
