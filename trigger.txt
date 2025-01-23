@@ -1,1 +1,1 @@
-ghcr.io/devcontainers/features/docker-in-docker:2 registry.cn-hangzhou.aliyuncs.com/ai-team/docker-in-docker:2
+docker.io/docker/dockerfile:1.4 registry.cn-hangzhou.aliyuncs.com/ai-team/dockerfile:1.4
