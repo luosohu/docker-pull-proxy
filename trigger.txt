@@ -1,1 +1,1 @@
-dustynv/ollama:r35.4.1 registry.cn-hangzhou.aliyuncs.com/ai-team/ollama-cu114:35.4.1-a1c
+dustynv/text-generation-webui:r35.4.1-cp310 registry.cn-hangzhou.aliyuncs.com/ai-team/generation-cu114:35.4.1-a1c
