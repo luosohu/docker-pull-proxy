@@ -1,1 +1,1 @@
-dustynv/llama_cpp:r35.4.1 registry.cn-hangzhou.aliyuncs.com/ai-team/lama_cpp:r35.4.1
+dustynv/ollama:r35.4.1 registry.cn-hangzhou.aliyuncs.com/ai-team/ollama-cu114:35.4.1-a1c
