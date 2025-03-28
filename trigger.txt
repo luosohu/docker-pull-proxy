@@ -1,1 +1,1 @@
-dustynv/llava:r35.4.1 registry.cn-hangzhou.aliyuncs.com/ai-team/llava-cu114:35.4.1-a1c
+pnnlmiscscripts/anaconda:latest registry.cn-hangzhou.aliyuncs.com/ai-team/anaconda:latest
