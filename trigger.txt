@@ -1,1 +1,1 @@
-node:20-alpine3.20 registry.cn-hangzhou.aliyuncs.com/ai-team/node:20-alpine3.20
+langgenius/dify-api:1.2.0 registry.cn-hangzhou.aliyuncs.com/ai-team/dify-api:1.2.0
