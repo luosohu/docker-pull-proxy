@@ -1,1 +1,1 @@
-langflowai/langflow:latest registry.cn-hangzhou.aliyuncs.com/ai-team/langflow:latest
+postgres:16 registry.cn-hangzhou.aliyuncs.com/ai-team/postgres:16
