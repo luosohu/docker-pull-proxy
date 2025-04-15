@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.7-local registry.cn-hangzhou.aliyuncs.com/ai-team/dify-plugin-daemon:0.0.7-local
+langflowai/langflow:latest registry.cn-hangzhou.aliyuncs.com/ai-team/langflow:latest
