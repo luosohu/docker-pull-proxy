@@ -1,1 +1,1 @@
-postgres:16 registry.cn-hangzhou.aliyuncs.com/ai-team/postgres:16
+python:3.12-slim-bookworm registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.12-slim-bookworm
