@@ -1,1 +1,1 @@
-llamafactory:latest registry.cn-hangzhou.aliyuncs.com/ai-team/llamafactory:latest
+hunyuaninfer/hunyuan-large:infer-open-source registry.cn-hangzhou.aliyuncs.com/ai-team/hunyuan-large:infer-open-source
