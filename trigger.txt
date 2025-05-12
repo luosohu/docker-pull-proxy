@@ -1,1 +1,1 @@
-hunyuaninfer/hunyuan-large:infer-open-source registry.cn-hangzhou.aliyuncs.com/ai-team/hunyuan-large:infer-open-source
+docker.n8n.io/n8nio/n8n registry.cn-hangzhou.aliyuncs.com/ai-team/n8n:latest
