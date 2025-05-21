@@ -1,1 +1,1 @@
-docker.n8n.io/n8nio/n8n registry.cn-hangzhou.aliyuncs.com/ai-team/n8n:latest
+langgenius/dify-api:0.15.7 registry.cn-hangzhou.aliyuncs.com/ai-team/dify-api:0.15.7
