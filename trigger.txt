@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.12 registry.cn-hangzhou.aliyuncs.com/ai-team/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.1-local registry.cn-hangzhou.aliyuncs.com/ai-team/dify-plugin-daemon:0.1.1-local
