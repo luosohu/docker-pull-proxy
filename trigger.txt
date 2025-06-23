@@ -1,1 +1,1 @@
-langgenius/dify-api:1.4.3 crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/dify-api:1.4.3
+langgenius/dify-web:1.4.3 crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/dify-web:1.4.3
