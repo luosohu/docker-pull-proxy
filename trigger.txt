@@ -1,1 +1,1 @@
-postgres:15-alpine crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/postgres:15-alpine
+redis:6-alpine crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/redis:6-alpine
