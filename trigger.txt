@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.12 crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.2-local crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/dify-plugin-daemon:0.1.2-local
