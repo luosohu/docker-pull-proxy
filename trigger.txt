@@ -1,1 +1,1 @@
-redis:6-alpine crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/redis:6-alpine
+langgenius/dify-sandbox:0.2.12 crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/dify-sandbox:0.2.12
