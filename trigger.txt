@@ -1,1 +1,1 @@
-nginx:latest crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/nginx:latest
+semitechnologies/weaviate:1.19.0 crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/weaviate:1.19.0
