@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.1.2-local crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/dify-plugin-daemon:0.1.2-local
+ubuntu/squid:latest crpi-zd04w0wapihxvy8u.cn-hangzhou.personal.cr.aliyuncs.com/hulu-dify/squid:latest
