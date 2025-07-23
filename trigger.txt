@@ -1,1 +1,1 @@
-mcr.microsoft.com/devcontainers/python:3.12 registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.12-mcr-devcontainers
+langgenius/dify-plugin-daemon:0.1.3-local registry.cn-hangzhou.aliyuncs.com/ai-team/dify-plugin-daemon:0.1.3-local
