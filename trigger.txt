@@ -1,1 +1,1 @@
-bitnami/elasticsearch:8.18.0 registry.cn-hangzhou.aliyuncs.com/ai-team/elasticsearch:bitnami-8.18.0
+minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1 registry.cn-hangzhou.aliyuncs.com/ai-team/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
