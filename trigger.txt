@@ -1,1 +1,1 @@
-nsqio/nsq:v1.2.1 registry.cn-hangzhou.aliyuncs.com/ai-team/nsq:v1.2.1
+opencoze/opencoze:latest registry.cn-hangzhou.aliyuncs.com/ai-team/opencoze:latest
