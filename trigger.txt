@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1 registry.cn-hangzhou.aliyuncs.com/ai-team/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+bitnami/etcd:3.5 registry.cn-hangzhou.aliyuncs.com/ai-team/etcd:bitnami-3.5
