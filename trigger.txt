@@ -1,1 +1,1 @@
-mysql:8.4.5 registry.cn-hangzhou.aliyuncs.com/ai-team/mysql:8.4.5
+bitnami/redis:8.0 registry.cn-hangzhou.aliyuncs.com/ai-team/redis:bitnami-8.0
