@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.5.10 registry.cn-hangzhou.aliyuncs.com/ai-team/milvus:v2.5.1
+nsqio/nsq:v1.2.1 registry.cn-hangzhou.aliyuncs.com/ai-team/nsq:v1.2.1
