@@ -1,1 +1,1 @@
-opencoze/opencoze:latest registry.cn-hangzhou.aliyuncs.com/ai-team/opencoze:latest
+langgenius/dify-api:1.7.2 registry.cn-hangzhou.aliyuncs.com/ai-team/dify-api:1.7.2
