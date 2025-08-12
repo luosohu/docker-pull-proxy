@@ -1,1 +1,1 @@
-langgenius/dify-web:1.7.2 registry.cn-hangzhou.aliyuncs.com/ai-team/dify-web:1.7.2
+anggenius/dify-plugin-daemon:0.2.0-local registry.cn-hangzhou.aliyuncs.com/ai-team/dify-plugin-daemon:0.2.0-local
