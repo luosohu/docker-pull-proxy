@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.2.0-local registry.cn-hangzhou.aliyuncs.com/ai-team/dify-plugin-daemon:0.2.0-local
+python:3.11-slim registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.11-slim
