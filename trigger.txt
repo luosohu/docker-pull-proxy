@@ -1,1 +1,1 @@
-python:3.12.3-slim registry.cn-hangzhou.aliyuncs.com/ai-team/python:3.12.3-slim
+busybox:stable-musl registry.cn-hangzhou.aliyuncs.com/ai-team/busybox:stable-musl
