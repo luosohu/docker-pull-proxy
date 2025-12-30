@@ -1,1 +1,1 @@
-pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime registry.cn-hangzhou.aliyuncs.com/ai-team/pytorch:2.6.0-cuda12.4-cudnn9-runtime
+node:22-alpine registry.cn-hangzhou.aliyuncs.com/ai-team/node:22-alpine
