@@ -1,1 +1,1 @@
-node:22-alpine registry.cn-hangzhou.aliyuncs.com/ai-team/node:22-alpine
+langgenius/dify-api:latest registry.cn-hangzhou.aliyuncs.com/ai-team/dify-api:latest
