@@ -1,1 +1,1 @@
-langgenius/dify-api:latest registry.cn-hangzhou.aliyuncs.com/ai-team/dify-api:latest
+langgenius/dify-web:latest registry.cn-hangzhou.aliyuncs.com/ai-team/dify-web:latest
