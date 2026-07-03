@@ -1,1 +1,1 @@
-node:slim registry.cn-hangzhou.aliyuncs.com/ai-team/node:slim
+node:12.18.3 registry.cn-hangzhou.aliyuncs.com/ai-team/node:12.18.3
