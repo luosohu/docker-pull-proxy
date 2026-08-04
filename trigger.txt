@@ -1,1 +1,1 @@
-node:22.23.1 registry.cn-hangzhou.aliyuncs.com/ai-team/node:22.23.1
+pgvector/pgvector:pg17 registry.cn-hangzhou.aliyuncs.com/ai-team/pgvector:pg17
