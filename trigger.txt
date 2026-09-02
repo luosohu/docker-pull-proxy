@@ -1,1 +1,1 @@
-pgvector/pgvector:pg17 registry.cn-hangzhou.aliyuncs.com/ai-team/pgvector:pg17
+nousresearch/hermes-agent:latest registry.cn-hangzhou.aliyuncs.com/ai-team/hermes-agent:latest
