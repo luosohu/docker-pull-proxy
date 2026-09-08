@@ -1,1 +1,1 @@
-nginx:1.28 registry.cn-hangzhou.aliyuncs.com/ai-team/nginx:1.28
+grafana/grafana:11.3.0 registry.cn-hangzhou.aliyuncs.com/ai-team/grafana:11.3.0
