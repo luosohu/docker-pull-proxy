@@ -1,1 +1,1 @@
-nousresearch/hermes-agent:latest registry.cn-hangzhou.aliyuncs.com/ai-team/hermes-agent:latest
+eclipse-temurin:17-jre registry.cn-hangzhou.aliyuncs.com/ai-team/eclipse-temurin:17-jre
