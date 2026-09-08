@@ -1,1 +1,1 @@
-eclipse-temurin:17-jre registry.cn-hangzhou.aliyuncs.com/ai-team/eclipse-temurin:17-jre
+nginx:1.28 registry.cn-hangzhou.aliyuncs.com/ai-team/nginx:1.28
