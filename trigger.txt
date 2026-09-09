@@ -1,1 +1,1 @@
-redis:7 registry.cn-hangzhou.aliyuncs.com/ai-team/redis:7
+minio/minio:latest registry.cn-hangzhou.aliyuncs.com/ai-team/minio:latest
