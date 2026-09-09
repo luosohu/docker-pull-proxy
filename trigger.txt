@@ -1,1 +1,1 @@
-minio/minio:latest registry.cn-hangzhou.aliyuncs.com/ai-team/minio:latest
+minio/mc:latest registry.cn-hangzhou.aliyuncs.com/ai-team/mc:latest
