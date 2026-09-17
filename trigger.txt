@@ -1,1 +1,1 @@
-nousresearch/hermes-agent:latest registry.cn-hangzhou.aliyuncs.com/ai-team/hermes-agent:latest
+golang:1.26-alpine registry.cn-hangzhou.aliyuncs.com/ai-team/golang:1.26-alpine
