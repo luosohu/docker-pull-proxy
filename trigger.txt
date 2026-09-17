@@ -1,1 +1,1 @@
-golang:1.26-alpine registry.cn-hangzhou.aliyuncs.com/ai-team/golang:1.26-alpine
+alpine:3.21 registry.cn-hangzhou.aliyuncs.com/ai-team/alpine:3.21
