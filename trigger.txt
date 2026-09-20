@@ -1,1 +1,1 @@
-alpine:3.21 registry.cn-hangzhou.aliyuncs.com/ai-team/alpine:3.21
+redis:7-alpine registry.cn-hangzhou.aliyuncs.com/ai-team/redis:7-alpine
