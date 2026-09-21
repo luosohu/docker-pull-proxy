@@ -1,1 +1,1 @@
-redis:7-alpine registry.cn-hangzhou.aliyuncs.com/ai-team/redis:7-alpine
+oven/bun:latest registry.cn-hangzhou.aliyuncs.com/ai-team/oven-bun:latest
