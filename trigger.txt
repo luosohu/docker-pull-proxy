@@ -1,1 +1,1 @@
-nginx:1.27-alpine registry.cn-hangzhou.aliyuncs.com/ai-team/nginx:1.27-alpine
+nousresearch/hermes-agent:latest registry.cn-hangzhou.aliyuncs.com/ai-team/hermes-agent:latest
